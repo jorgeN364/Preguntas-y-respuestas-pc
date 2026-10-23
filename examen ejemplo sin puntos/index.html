@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Quiz de componentes de computadora</title>
+        <link rel="stylesheet" href="estilos.css" />
+        <script src="app.js" defer></script>
+    </head>
+    <body>
+        <main class="quiz">
+            <h1>Preguntas y respuestas NTICX 2026</h1>
+
+            <p id="saludo"></p>
+
+            <p id="progreso"></p>
+            <h2 id="pregunta">Cargando preguntas…</h2>
+
+            <div id="opciones" class="opciones"></div>
+            <p id="resultado" aria-live="polite"></p>
+
+            <div class="botones">
+                <button id="btn-responder" disabled>Responder</button>
+                <button id="btn-siguiente" hidden>Siguiente pregunta</button>
+            </div>
+
+            <p id="puntaje"></p>
+        </main>
+
+        <script>
+            const nombre = sessionStorage.getItem("nombre");
+            const saludo = document.getElementById("saludo");
+
+            if (nombre) {
+                saludo.textContent = "¡Hola, " + nombre + "!!";
+            }
+        </script>
+    </body>
+</html>

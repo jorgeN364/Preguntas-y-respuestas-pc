@@ -1,0 +1,262 @@
+[
+    {
+        "pregunta": "¿Qué componente se considera el cerebro de la computadora?",
+        "imagen": "",
+        "opciones": [
+            "El microprocesador",
+            "El monitor",
+            "El teclado"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué componente se encarga de almacenar datos de forma permanente?",
+        "imagen": "",
+        "opciones": [
+            "La memoria RAM",
+            "El disco duro o SSD",
+            "La tarjeta gráfica"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué significa que la computadora sea un equipo de propósito general?",
+        "imagen": "",
+        "opciones": [
+            "Que solo se utiliza para trabajar con números",
+            "Que puede realizar distintas tareas según el programa que se ejecute",
+            "Que todas las computadoras tienen los mismos componentes"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la función principal de la memoria RAM?",
+        "imagen": "",
+        "opciones": [
+            "Mostrar imágenes en el monitor",
+            "Conectar la computadora a Internet",
+            "Almacenar temporalmente datos y programas en uso"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es la función principal del Microprocesador o CPU?",
+        "imagen": "",
+        "opciones": [
+            "Guardar permanentemente los archivos",
+            "Proporcionar energía a la computadora",
+            "Procesar instrucciones y realizar cálculos"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué componente suministra energía eléctrica a las partes de la computadora?",
+        "imagen": "",
+        "opciones": [
+            "La placa madre",
+            "La fuente de alimentación",
+            "El disco SSD"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de estos componentes forma parte del hardware principal?",
+        "imagen": "",
+        "opciones": [
+            "El teclado",
+            "El monitor",
+            "La memoria RAM"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál de estos dispositivos es de entrada?",
+        "imagen": "",
+        "opciones": [
+            "El teclado",
+            "El monitor",
+            "Los parlantes"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Cuál de estos dispositivos es de salida?",
+        "imagen": "",
+        "opciones": [
+            "El escáner",
+            "El teclado",
+            "El monitor"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuándo los datos se convierten en información?",
+        "imagen": "",
+        "opciones": [
+            "Cuando se guardan en una computadora",
+            "Cuando se escriben con números",
+            "Cuando se ordenan, relacionan y procesan"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de memoria pierde su contenido cuando se apaga la computadora?",
+        "imagen": "",
+        "opciones": [
+            "La memoria RAM",
+            "El disco duro",
+            "La memoria USB"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué tipo de dato contiene solamente números?",
+        "imagen": "",
+        "opciones": [
+            "Sonido",
+            "Numérico",
+            "Hipervínculo"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de estos ejemplos es un dato alfanumérico?",
+        "imagen": "",
+        "opciones": [
+            "27",
+            "Una fotografía",
+            "Aula 4B"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué conector se utiliza habitualmente para conectar dispositivos USB?",
+        "imagen": "",
+        "opciones": [
+            "USB",
+            "HDMI",
+            "VGA"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Para qué se utiliza principalmente un cable HDMI?",
+        "imagen": "",
+        "opciones": [
+            "Para transmitir audio y video digital",
+            "Para alimentar el procesador",
+            "Para aumentar la memoria RAM"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué dispositivo permite mover el puntero en la pantalla?",
+        "imagen": "",
+        "opciones": [
+            "El mouse",
+            "La impresora",
+            "El micrófono"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿El gabinete y la CPU son lo mismo?",
+        "imagen": "",
+        "opciones": [
+            "No, son componentes diferentes",
+            "Sí, ambos son el nombre del gabinete",
+            "Sí, ambos son el nombre del microprocesador"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué significa la sigla TIC?",
+        "imagen": "",
+        "opciones": [
+            "Técnicas de Internet y Computación",
+            "Tecnologías de la Información y la Comunicación",
+            "Transmisión de Información y Conocimiento"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué componente permite conectar la computadora a una red mediante Wi-Fi o cable?",
+        "imagen": "",
+        "opciones": [
+            "La tarjeta de red",
+            "La tarjeta de sonido",
+            "El disipador"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Cuál de estos componentes se utiliza para escuchar sonidos de la computadora?",
+        "imagen": "",
+        "opciones": [
+            "Los parlantes",
+            "La cámara web",
+            "El escáner"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿A qué hace referencia el término TIC?",
+        "imagen": "",
+        "opciones": [
+            "Solo a las computadoras",
+            "A dispositivos, redes y aplicaciones para crear, procesar y compartir información",
+            "Únicamente a las redes sociales"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué permite una videollamada?",
+        "imagen": "",
+        "opciones": [
+            "Comunicarse en tiempo real mediante audio y video por Internet",
+            "Guardar datos exclusivamente en una memoria USB",
+            "Crear una tienda en línea"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué son las comunidades virtuales?",
+        "imagen": "",
+        "opciones": [
+            "Grupos de personas que interactúan en línea",
+            "Dispositivos que se conectan a Internet",
+            "Aplicaciones diseñadas para hacer llamadas"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "Después de procesarse, los datos se convierten en....",
+        "imagen": "",
+        "opciones": [
+            "Hardware.",
+            "Información.",
+            "Periféricos."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Mediante qué dispositivos puede mostrarse la información procesada?",
+        "imagen": "",
+        "opciones": [
+            "Periféricos de entrada",
+            "Periféricos de salida",
+            "Datos sin procesar"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "segun el apunte, ¿Qué diferencia existe entre USB 2.0 y USB 3.0?",
+        "imagen": "",
+        "opciones": [
+            "El USB 2.0 transmite más rápido.",
+            "El USB 3.0 transmite datos más rápido.",
+            "No existe ninguna diferencia."
+        ],
+        "correcta": 1
+    }
+]
